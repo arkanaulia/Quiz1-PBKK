@@ -1,0 +1,7 @@
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\Assignment1.exe
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\Assignment1.dll
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\Assignment1.deps.json
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\Assignment1.runtimeconfig.json
+C:\AYO NGODING\PBKK\Assignment1\obj\Release\net6.0\PubTmp\Out\Assignment1.pdb
